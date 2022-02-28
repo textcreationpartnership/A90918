@@ -1,0 +1,173 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A true relation of the taking of Roger Manwering Bishop of St. Davids coming from Ireland in a disguis'd habit, in the ship call'd the Eagle, the 28. of June, 1642. By Captaine John Pointz. Also the relation of the sudden rising of the Lord Strange in Lankashire, and of his intention of the taking of the magazine of Larpoole. Likewise concerning the Lord Digbies coming over in the ship call'd the Providence, his being chased at sea by our ships. And how Sir Edward Stradling, and Colonell Ashburnham were with a French-man of war taken coming from Holland in a pinnace, going for Yorke. Unto which is annexed a conspiracie against Sir Henry Tichbourn Governour of Droghedagh, by Captain Garner; and how Tradagh had like to have been betrayed by the rebels. Also an order against proclaiming any proclamation, order, or declaration, contrary to any order or ordinance of both Pouses [sic] of Parliament. Hen. Elsing. Cler. Parl. D.</title>
+            <author>Pointz, John.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 9 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2012-10">2012-10 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A90918</idno>
+            <idno type="STC">Wing P3133</idno>
+            <idno type="STC">Thomason E154_30</idno>
+            <idno type="STC">ESTC R19819</idno>
+            <idno type="EEBO-CITATION">99860749</idno>
+            <idno type="PROQUEST">99860749</idno>
+            <idno type="VID">156834</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A90918)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 156834)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 27:E154[30])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A true relation of the taking of Roger Manwering Bishop of St. Davids coming from Ireland in a disguis'd habit, in the ship call'd the Eagle, the 28. of June, 1642. By Captaine John Pointz. Also the relation of the sudden rising of the Lord Strange in Lankashire, and of his intention of the taking of the magazine of Larpoole. Likewise concerning the Lord Digbies coming over in the ship call'd the Providence, his being chased at sea by our ships. And how Sir Edward Stradling, and Colonell Ashburnham were with a French-man of war taken coming from Holland in a pinnace, going for Yorke. Unto which is annexed a conspiracie against Sir Henry Tichbourn Governour of Droghedagh, by Captain Garner; and how Tradagh had like to have been betrayed by the rebels. Also an order against proclaiming any proclamation, order, or declaration, contrary to any order or ordinance of both Pouses [sic] of Parliament. Hen. Elsing. Cler. Parl. D.</title>
+                  <author>Pointz, John.</author>
+                  <author>England and Wales. Parliament.</author>
+               </titleStmt>
+               <extent>[2], 6 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Tho: Banks,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>July 9. 1642.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Ashburnham, William, d. 1679.</term>
+               <term>Bristol, George Digby, --  Earl of, 1612-1677.</term>
+               <term>Derby, James Stanley, --  Earl of, 1607-1651.</term>
+               <term>Garner, --  Captain.</term>
+               <term>Maynwaring, Roger, 1590-1653.</term>
+               <term>Stradling, Edward, --  Sir, 1601-1644.</term>
+               <term>Tichborne, Henry, --  Sir, 1581?-1667.</term>
+               <term>Providence (ship) --  Early works to 1800.</term>
+               <term>Ireland --  History --  Rebellion of 1641 --  Early works to 1800.</term>
+               <term>Great Britain --  Civil War, 1642-1649 --  Naval operations --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2011-01</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2011-08</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2012-05</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:156834:1" rendition="simple:additions"/>
+            <p>A TRVE RELATION OF THE TAKING Of ROGER MANWERING Biſhop of St. <hi>Davids</hi> coming from <hi>Ire<g ref="char:EOLhyphen"/>land</hi> in a diſguiſd habit, in the Ship call'd the <hi>Eagle,</hi> the 28. of <hi>June,</hi> 1642.</p>
+            <p>By Captaine <hi>John Pointz.</hi>
+            </p>
+            <p>Alſo the Relation of the ſudden riſing of the Lord <hi>Strange</hi> in <hi>Lankaſhire,</hi> and of his intention of the taking of the Ma<g ref="char:EOLhyphen"/>gazine of <hi>Larpoole.</hi>
+            </p>
+            <p>Likewiſe concerning the Lord <hi>Digbies</hi> coming over in the Ship call'd the <hi>Provi<g ref="char:EOLhyphen"/>dence,</hi> his being chaſed at ſea by our Ships.</p>
+            <p>And how Sir <hi>Edward Stradling,</hi> and Colonell <hi>Aſbburnham</hi> were with a <hi>French-man</hi> of War taken coming from <hi>Holland</hi> in a <hi>Pinnace,</hi> going for YORKE.</p>
+            <p>Unto which is annexed a Conſpiracie againſt Sir <hi>Henry Tichbourn</hi> Governour of <hi>Droghedagh,</hi> by Captain <hi>Garner;</hi> and how <hi>Tradagh</hi> had like to have been betrayed by the Rebels.</p>
+            <p>Alſo an Order againſt Proclaiming any Proclama<g ref="char:EOLhyphen"/>tion, Order, or Declaration, contrary to any Order or Ordinance of both Pouſes of Parlia<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                  <desc>••••</desc>
+               </gap>.</p>
+            <p>
+               <hi>Hen. Elſing. <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> Earl. D.</hi>
+            </p>
+            <p>LONDON, Printed by <hi>Tho: Banks,</hi> July 9. 1645</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:156834:2"/>
+            <pb n="3" facs="tcp:156834:2"/>
+            <head>A TRUE RELATION OF THE TAKING Of <hi>Roger Manwering</hi> Biſhop of St. <hi>Davis</hi> coming from <hi>Ireland</hi> in a diſguiſed habit; in the Ship called the EAGLE.</head>
+            <byline>By Captain IOHN POINTZ.</byline>
+            <p>IT being my fortune by Profeſſion to be a Souldier, and being employed according to my abilities to his Majeſtie and Parliaments Service againſt thoſe Rebels in <hi>Ireland;</hi> and having diſpatched ſome affairs, I was reſolved for <hi>England:</hi> But before I came, I had intelligence of a Fugitive that had been Voted a Delinquent in
+<pb n="2" facs="tcp:156834:3"/>Parliament, <hi>viz. Roger Manwering</hi> late Biſhop of St. <hi>Davids,</hi> and ſometime Parſon of St. <hi>Giles</hi> in the Fields. He lying under the cenſure of the Par<g ref="char:EOLhyphen"/>liament; I thought became me as a dutifull Ser<g ref="char:EOLhyphen"/>vant of the Common-wealth, not to let this buſi<g ref="char:EOLhyphen"/>nes go undiſcovered, and to bring him to light, that had been ſuch an Enemy to the Church and State; and as the Parliament hath formerly cenſured him and degraded him from his dignities, and made him uncapable of the Miniſteriall function; and ſince the intermiſſion of Parliaments, be hath ta<g ref="char:EOLhyphen"/>ken upon him the degree of a Biſhop, yet hath not amended his manners, but ſtill perſevered in for<g ref="char:EOLhyphen"/>mer courſes; he being as I heard bound for <hi>England</hi> in the ſhip called the <hi>Eagle;</hi> when he heard how buſineſſe fared in <hi>England,</hi> and that there was ſome hopes of regaining his former dignity: It was my fortune to come over in the ſame ſhip; where having as God would have it, ſome conference with his man which was with me in this ſhip, comming for <hi>Minyard</hi> in <hi>Somerſet-ſhiere</hi> where finding con<g ref="char:EOLhyphen"/>trary to my expectation, but as God appointed it, the Biſhop to ride in the ſame ſhip I came over in, whereupon knowing of him, intimated ſo much to the Maſter of the ſhip with the whole buſineſſe, the Biſhops wife was with him, a very neere kinſwo<g ref="char:EOLhyphen"/>man to him before he married her, being of the age of 22. years, far unfit for ſuch a man, he being aged 65. years, his ſiſter poor and lying on the Pariſh where he formerly lived in, without any reliefe, and he ſuffers his children by his former wife to ſhift for themſelves; he being examined before <hi>Thomas
+<pb n="3" facs="tcp:156834:3"/>Lutterall</hi> Eſquire, he confeſſed that he departed from the Kingdom of <hi>England</hi> into <hi>Ireland,</hi> for preferment upon the Kings promiſe: Let the world judge, if his cauſe had been good, but that a guilty conſcience purſued him, whether he would have left a ſetled Revenewe of 1500. pounds <hi>per annum,</hi> to adventure into an unknown Fortune; but he re<g ref="char:EOLhyphen"/>maines in durance, untill the Honourable High Court of Parliament take further order with him, and the Captaine well rewarded. So much I will averr.</p>
+            <p>IOHN POINTZ.</p>
+            <p>Likewiſe it was related unto me ſince my com<g ref="char:EOLhyphen"/>ing over, that the L. <hi>Strange</hi> was riſen up in Arms in <hi>Lancaſhire,</hi> intending to take away the Magazine there of <hi>Larpool</hi> and <hi>Mancheſter,</hi> with 12000. men of the ſame County to aſſiſt him, and to reſiſt him, a great number were raiſed to reſiſt him, and by the aſſiſtance of Mr. <hi>Moore;</hi> who being Comanded by the Parliament to demand that Lords reaſon of raiſing ſuch Forces, and to take away the <hi>Militia.</hi> By his care the Magazine is ſtai'd and brought un<g ref="char:EOLhyphen"/>to the Lievtenant of the County till further order be heard from the Parliament: Had not Maſter <hi>Moore</hi> came, there had bin a great deal of miſchief, for there were on both ſides raiſed, neere nine ſcore thouſand people; but thanks be to God all things are there at peace.</p>
+            <pb n="4" facs="tcp:156834:4"/>
+            <p>There is a report likewiſe of the Lord <hi>Digby</hi> and others to have bin Landed neere <hi>Hull,</hi> and that they were brought in a ſhip called the providence, with a number of braſſe peeces, and other ammu<g ref="char:EOLhyphen"/>nition, he being chaſed by ſome of our ſhips at ſea; but <hi>Dighy</hi> as yet is not taken, Sir <hi>Edward Stradling</hi> is taken, and Colonell <hi>Aſhburne</hi> and a French man with them, which came from <hi>Holland</hi> in a Pinnace going for <hi>Yorke.</hi>
+            </p>
+            <p>Alſo newe from <hi>Droghedagh,</hi> of the diſcovery of dangerous and wicked deſignes upon Sir <hi>Henry Tichbourne</hi> Governour of <hi>Droghedagh.</hi> As appears, that Captaine <hi>Garner</hi> did alwayes frequent Sir <hi>Henry Tichbourne,</hi> and did furniſh him with abun<g ref="char:EOLhyphen"/>dance of victualls, only to make him his prey, and to get himſelf a good opinion in him, &amp; his officers, that they might have a good conceit of his Loyall affections, and reſpects unto his King and Country. But falſhood is hid in his diſſembling breſt, he un<g ref="char:EOLhyphen"/>der ſhadow of inviting Sir <hi>Henry Tichbourne</hi> and his officers to dinner, gives them all the entertain<g ref="char:EOLhyphen"/>ment they could expect from him; but he had ſo provided the buſineſſe, that if God had not had a provident eye over that City of <hi>Droghedagh;</hi> it had bin betrayed to the wicked Rebells, but as it is in holy writ, the wicked have digged a pit for others, and fall into it themſelves, for by the meanes of one of his own ſouldiers, all the treachery was brought to Light, which came to Sir <hi>Henry Tichbourne</hi> and craved his pardon, which he obtained, upon which, he related how captain <hi>Garner</hi> who was ſo inti<g ref="char:EOLhyphen"/>mate
+<pb n="5" facs="tcp:156834:4"/>with Sir <hi>Henry,</hi> had provided an Army of men to take <hi>Tradagh,</hi> and another Army of men to take <hi>Dundalke,</hi> and another to ſurpriſe Sir <hi>Hen<g ref="char:EOLhyphen"/>ry Tichbourne</hi> and his officers comming their to dinner; but this being diſcovered, the Captaine was taken, and his Souldiers were brought to <hi>Du<g ref="char:EOLhyphen"/>blin</hi> and put to the ſword, the Captains Caſtle ſurpriſed, and ſeized upon by Sir <hi>Henry Tich<g ref="char:EOLhyphen"/>bourne.</hi>
+            </p>
+         </div>
+         <div type="text">
+            <pb n="6" facs="tcp:156834:5"/>
+            <p>BE it Ordered and declared by the Lords and Com<g ref="char:EOLhyphen"/>mons in Parliament, That no Sheriffe, Major, Bayliffe, Parſon, Vicar, Curate, or other Officer, ſhall from henceforth publiſh or Proclaim, or cauſe to be Proclaimed or publiſhed, any ſuch Proclamations, De<g ref="char:EOLhyphen"/>clarations, or papers, which are, or ſhall be contrary to any Order, Ordinance or Declarations of the ſayd Houſes of Parliament, or tending to the ſcandall or derogation of their proceedings; but ſhall uſe all lawfull wayes and meanes to reſtraine and hinder the proceeding and publiſhing thereof. And all Sheriffs, Majors, Bayliffs, Parſons, Vicars and Curates, or o<g ref="char:EOLhyphen"/>ther Officers that have forborn or refuſed, or ſhall forbear or refuſe to publiſh or Proclaim any ſuch Pro<g ref="char:EOLhyphen"/>clamations, Declarations, or Papers as aforeſaid, or have, or ſhall hinder the publication thereof, ſhall be protected by the power and authority of both Houſes of Parliament.</p>
+            <p>
+               <hi>Ordered by the Commons in Parliament, That this be forthwith Printed and Publiſhed.</hi>
+            </p>
+            <closer>
+               <signed>Hen. Elſing. Cler. Parl. D. Com.</signed>
+            </closer>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
